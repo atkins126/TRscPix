@@ -1,3 +1,7 @@
+![TRscPix Banner Dark](https://user-images.githubusercontent.com/26689802/196716651-65958794-ebf8-4fd8-8612-69d227ec2bab.png)
+
+<a href="https://discord.gg/z8Wj7kQX"><img alt="join Discord" src="https://img.shields.io/discord/918891794597544056?color=blue&label=Discord&logo=discord&style=social"></a> <a href="https://t.me/TRscPix"><img src="https://img.shields.io/badge/Telegram-join-blue?style=social&logo=telegram"> </a>
+
 ![GitHub](https://img.shields.io/github/license/Ronierys2/TRscPix) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ronierys2/TRscPix)
 
@@ -26,6 +30,9 @@
 * [Rest-Dataware](https://github.com/svn2github/rest-dataware)
 
 * [ZXing - VCL](https://github.com/foxitsoftware/DelphiZXingQRCode)
+
+## Instalação
+[![Como Instalar](https://img.youtube.com/vi/1mzO-G5Ldcs/maxresdefault.jpg)](https://youtu.be/1mzO-G5Ldcs)
 
 ## Grupos de Delphi para discusão e compartilhamneto de informações sobre Delphi, Pascal e afins.
 
